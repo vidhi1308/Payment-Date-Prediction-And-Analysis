@@ -3,9 +3,11 @@
 This project leverages Machine Learning and PySpark to predict the payment date of an invoice and categorize it into different aging buckets based on historical payment patterns. The goal is to use past payment information and buyer behavior to predict when payments will be made for new invoices.
 
 # **Table of Contents**
-Overview
-Aging Buckets
-Dataset and Data Ingestion
+1. Overview
+
+2. Aging Buckets
+
+3. Dataset and Data Ingestion
 
 # **Overview**
 This project is designed to help businesses predict when an invoice payment will be made based on past behavior. The prediction is important for businesses to better manage cash flow, credit terms, and invoicing processes. We use the invoice dataset which contains historical data about payment patterns, including previous payment delays, invoice amounts, and due dates.
